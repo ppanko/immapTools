@@ -1,0 +1,12 @@
+Package: immapTools
+Type: Package
+Title: Convenience tools for IMMAP-related analyses
+Version: 0.0.1
+Date: 2019-8-26
+Author: Pavel Panko
+Maintainer: Pavel Panko <pavel.panko@ttu.edu>
+Description: Provides a number of functions for (primarily)
+              missing data-related tasks. Named after the legendary
+	      IMMAP research center. 
+License: GPL-3 + file LICENSE
+RoxygenNote: 6.1.1

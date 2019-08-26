@@ -1,0 +1,7 @@
+orthogonalize.Rcheck
+*~
+src/*.so
+src/*.o
+src/*.rds
+..Rcheck*
+.Rd2*
