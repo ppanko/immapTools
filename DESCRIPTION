@@ -9,4 +9,4 @@ Description: Provides a number of functions for (primarily)
               missing data-related tasks. Named after the legendary
 	      IMMAP research center. 
 License: GPL-3 + file LICENSE
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.0.9000

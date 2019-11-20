@@ -4,8 +4,13 @@
 \alias{grandMean}
 \title{Create a "grand mean" data set from a series of imputed data sets}
 \usage{
-grandMean(stackedData, idName, contNames = NULL, discNames = NULL,
-  dropNames = NULL)
+grandMean(
+  stackedData,
+  idName,
+  contNames = NULL,
+  discNames = NULL,
+  dropNames = NULL
+)
 }
 \arguments{
 \item{stackedData}{a data.frame of several stacked imputed data sets}

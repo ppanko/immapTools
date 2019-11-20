@@ -4,9 +4,16 @@
 \alias{writeToMplus}
 \title{Facilitate multiply-imputed data for use in Mplus}
 \usage{
-writeToMplus(dataList, dataDir, miDir, datPrefix = "data_",
-  listName = "dataList.txt", colName = "dataNames.txt",
-  missing = "-9999", ...)
+writeToMplus(
+  dataList,
+  dataDir,
+  miDir,
+  datPrefix = "data_",
+  listName = "dataList.txt",
+  colName = "dataNames.txt",
+  missing = "-9999",
+  ...
+)
 }
 \arguments{
 \item{dataList}{list of data.frame objects.}
