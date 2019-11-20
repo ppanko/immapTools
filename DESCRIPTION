@@ -2,7 +2,7 @@ Package: immapTools
 Type: Package
 Title: Convenience tools for IMMAP-related analyses
 Version: 0.0.1
-Date: 2019-8-26
+Date: 2019-11-20
 Author: Pavel Panko
 Maintainer: Pavel Panko <pavel.panko@ttu.edu>
 Description: Provides a number of functions for (primarily)
